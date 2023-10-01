@@ -1,0 +1,9 @@
+/* font-family: 'Young Serif', serif;  for header*/
+/* font-family: 'Dancing Script', cursive;
+ */
+h1 {
+  font-family: "Young Serif", serif;
+}
+p {
+  font-family: "Dancing Script", cursive;
+}
