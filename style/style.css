@@ -1,9 +1,38 @@
 /* font-family: 'Young Serif', serif;  for header*/
 /* font-family: 'Dancing Script', cursive;
  */
-h1 {
+body {
+  background-color: rgb(228, 241, 247);
+}
+.container {
+  text-align: center;
+}
+.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
+}
+.nav-link {
   font-family: "Young Serif", serif;
 }
-p {
+h1 {
   font-family: "Dancing Script", cursive;
+  margin: 30px;
+  font-size: 90px;
+  font-weight: bold;
+}
+p {
+  font-family: "Young Serif", serif;
+  margin: 20px 0px;
+  text-align: justify;
+  font-size: 15px;
+  line-height: 2;
+}
+.img {
+  height: 300px;
+  width: 800px;
+}
+
+h2 {
+  font-family: "Young Serif", serif;
+  text-align: left;
 }
