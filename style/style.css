@@ -36,3 +36,7 @@ h2 {
   font-family: "Young Serif", serif;
   text-align: left;
 }
+.about {
+  line-height: 2.5;
+  text-align: center;
+}
