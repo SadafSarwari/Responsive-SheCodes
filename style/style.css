@@ -40,3 +40,12 @@ h2 {
   line-height: 2.5;
   text-align: center;
 }
+.icon {
+  font-size: 200px;
+}
+.links {
+  margin-left: 80px;
+}
+.social {
+  margin-bottom: 120px;
+}
