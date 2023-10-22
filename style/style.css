@@ -49,3 +49,7 @@ h2 {
 .social {
   margin-bottom: 120px;
 }
+footer {
+  margin: 0 auto;
+  display: block;
+}
